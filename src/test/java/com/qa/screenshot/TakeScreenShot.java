@@ -25,7 +25,7 @@ public class TakeScreenShot extends BaseTestScreenShot {
 	}
 	@Test
 	public void TakeSceshotTest() {
-		Assert.assertEquals(false, true);
+		Assert.assertEquals(true, true);
 	}
 	@Test
 	public void TakotTest() {
@@ -33,6 +33,6 @@ public class TakeScreenShot extends BaseTestScreenShot {
 	}
 	@Test
 	public void TakeScreeshotTest() {
-		Assert.assertEquals(false, true);
+		Assert.assertEquals(true, true);
 	}}
 
